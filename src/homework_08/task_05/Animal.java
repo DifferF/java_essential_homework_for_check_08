@@ -59,7 +59,7 @@ public class Animal {
                 " возраст = " + age +
                 " хвост = " + tailStr(tail);
     }
-
+//
 }
 
 class Main {
